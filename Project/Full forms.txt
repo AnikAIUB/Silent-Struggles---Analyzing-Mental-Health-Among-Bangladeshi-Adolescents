@@ -1,0 +1,52 @@
+# mother_occu -> mother's occupation -> have to categories the numbers
+
+# father_occu -> father's occupation -> have to categories the numbers
+
+# mother_quali -> mother's qualification -> have to categories the numbers
+
+# father_quali -> father's qualification -> have to categories the numbers
+
+FIES -> Food Insecurity Experience Scale
+# [New column] FIES_total_score -> food1 + … + food8
+
+# [New column] Positive_parenting_total_score -> alabama1 + … + alabama9
+
+
+
+# Cat_FIES -> Categorical FIES_total_score 
+# Cat_AIS -> Categorical Athens Insomnia Scale
+# Cat_SWEMWS -> Categorical SWEMWS [A categorical mental well-being label derived from the converted score.]
+# Cat_Anxiety -> Categorical Anxiety
+# Cat_stress ->  Categorical Stress
+# Cat_Depression ->  Categorical Depression 
+
+
+
+# cyber abuse, cyber threat and abuse degree -> have to sum each section seperately and categorize it and than find correlation between those.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+# height, weight -> have to calculate BMI
+
+# bp_sys, bp_dia, pulse -> calculate health
+
+# marital_status -> misleading daga
+
+# income -> rename to monthly_allowance
+
+# total_siblings -> I will calculate by adding (bro and sis)
+
+# total_family_member -> I will calculate by adding (family_member_male and family_member_female)
+
+# telephone, mobile, television, radio -> have to analysis the impact of communication devices
+
+# car, motor_cycle, bicycle-> have to analysis the impact of private transport
+
+
+
+
+
+have to build seperate dashboards for seperate analysis
