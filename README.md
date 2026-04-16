@@ -1,0 +1,2 @@
+# Silent-Struggles---Analyzing-Mental-Health-Among-Bangladeshi-Adolescents
+Silent Struggles is an end-to-end mental health analytics project that transforms raw adolescent survey data into actionable insights using Excel, MySQL, Python, and Power BI. The project analyzes stress patterns, socio-economic conditions, food insecurity, and cyber abuse to identify high-risk groups and support data-driven policy decisions.
